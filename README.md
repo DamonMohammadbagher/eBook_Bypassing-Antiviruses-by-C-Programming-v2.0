@@ -24,8 +24,10 @@ or email : Damonmohammadbagher@outlook.com
 
 ![](https://github.com/DamonMohammadbagher/eBook_Bypassing-Antiviruses-by-C-Programming-v2.0/blob/main/EBOOK1.png)
 
+- Nov 03, 2023 [Table of Contents for eBook Bypassing AntiViruses by C# Programming v2.0](https://damonmohammadbagher.github.io/Posts/ebookv2/TOC.htm)
+- Nov 03, 2023 [Table of Contents Farsi for eBook Bypassing AntiViruses by C# Programming v2.0 (Persian Edition)](https://damonmohammadbagher.github.io/Posts/ebookv2/TOC_FA.htm)
 
-Table of Contents (farsi) => https://www.linkedin.com/pulse/ebook-bypassing-anti-viruses-c-programming-v20-ready-mohammadbagher-yvcqc
+ 
 
 
 Table of Contents
