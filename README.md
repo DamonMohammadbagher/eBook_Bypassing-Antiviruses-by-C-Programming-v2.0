@@ -28,7 +28,9 @@ or email : Damonmohammadbagher@outlook.com
 - Nov 03, 2023 [Table of Contents Farsi for eBook Bypassing AntiViruses by C# Programming v2.0 (Persian Edition)](https://damonmohammadbagher.github.io/Posts/ebookv2/TOC_FA.htm)
 
  
-
+<p align="center">
+    <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/DamonMohammadbagher/eBook_Bypassing-Antiviruses-by-C-Programming-v2.0"/></a>
+</p>
 
 Table of Contents
 	 
@@ -135,5 +137,3 @@ Table of Contents
     11.2 Detecting Remote Thread Injection and Monitoring Windows Events Log by C#
         Remote Thread Injection Detection in-memory + Creating Windows Event Logs and Monitoring them
 
-
-        
