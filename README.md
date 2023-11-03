@@ -3,6 +3,26 @@
 
 ### Published by damon mohammadbagher
 
+ebook "Bypassing Anti Viruses by C# Programming v2.0 (Persian Edition)
+
+مخاطبین کتاب افراد تیم قرمز و آبی و تست نفوذ می باشند
+
+افرادی می خواهند کتاب را خریداری کنند از طریق
+
+Table of Contents (farsi) => https://www.linkedin.com/pulse/ebook-bypassing-anti-viruses-c-programming-v20-ready-mohammadbagher-yvcqc
+
+
+LinkedIn : https://lnkd.in/g7X6HfY5
+
+or email : Damonmohammadbagher@outlook.com
+
+در خواست خود را با ایمیل خود را اعلام کنند تا مراحل خرید کتاب را دریافت کنند
+
+قیمت خرید کتاب: ۳/۵۰۰/۰۰۰ تومان می باشد
+
+کتاب همانند یک دوره آموزشی می باشد و تقریبا تمامی موارد درون آن جدید میباشند
+
+
 ![](https://github.com/DamonMohammadbagher/eBook_Bypassing-Antiviruses-by-C-Programming-v2.0/blob/main/EBOOK1.png)
 
 Table of Contents
