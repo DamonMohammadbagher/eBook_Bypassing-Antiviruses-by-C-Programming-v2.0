@@ -22,6 +22,8 @@ or email : Damonmohammadbagher@outlook.com
 کتاب همانند یک دوره آموزشی می باشد و تقریبا تمامی موارد درون آن جدید میباشند
 
 
+![](https://github.com/DamonMohammadbagher/eBook_Bypassing-Antiviruses-by-C-Programming-v2.0/blob/main/book.png)
+
 ![](https://github.com/DamonMohammadbagher/eBook_Bypassing-Antiviruses-by-C-Programming-v2.0/blob/main/EBOOK1.png)
 
 ![](https://github.com/DamonMohammadbagher/eBook_Bypassing-Antiviruses-by-C-Programming-v2.0/blob/main/pic1.png)
