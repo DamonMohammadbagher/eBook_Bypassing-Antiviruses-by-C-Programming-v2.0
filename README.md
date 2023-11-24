@@ -19,7 +19,9 @@ or email : Damonmohammadbagher@outlook.com
 
 قیمت خرید کتاب: ۳/۵۰۰/۰۰۰ تومان می باشد
 
-کتاب همانند یک دوره آموزشی می باشد و تقریبا تمامی موارد درون آن جدید میباشند
+کتاب همانند یک دوره آموزشی می باشد و تقریبا تمامی موارد درون آن جدید میباشند بالای ۳۰ کد سی شارپ در کتاب وجود دارد
+
+more than 30 C# codes/techniques in book
 
 
 ![](https://github.com/DamonMohammadbagher/eBook_Bypassing-Antiviruses-by-C-Programming-v2.0/blob/main/book.png)
