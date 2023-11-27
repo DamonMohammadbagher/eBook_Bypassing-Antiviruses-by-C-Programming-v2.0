@@ -23,6 +23,8 @@ or email : Damonmohammadbagher@outlook.com
 
 more than 30 C# codes/techniques in book
 
+video chapter 4.2 of ebook => https://www.youtube.com/watch?v=61czPWFhR6o
+
 
 ![](https://github.com/DamonMohammadbagher/eBook_Bypassing-Antiviruses-by-C-Programming-v2.0/blob/main/book.png)
 
