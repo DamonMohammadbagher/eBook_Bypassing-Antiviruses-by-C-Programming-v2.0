@@ -27,6 +27,8 @@ video chapter 4.2 of ebook => https://www.youtube.com/watch?v=61czPWFhR6o
 
 video chapter 4.2 of ebook (Part-2) => https://www.youtube.com/watch?v=w-3BizF9HYM
 
+video chapter 9.2 of ebook => https://www.youtube.com/watch?v=BqErFhZqxpA
+
 
 ![](https://github.com/DamonMohammadbagher/eBook_Bypassing-Antiviruses-by-C-Programming-v2.0/blob/main/book.png)
 
