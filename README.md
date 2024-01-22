@@ -31,7 +31,8 @@ video chapter 9.2 of ebook => https://www.youtube.com/watch?v=BqErFhZqxpA
 
 video chapter 10 of ebook => https://www.youtube.com/watch?v=26ZBx5fw25s
 
-video 2 chapter 10 of ebook [detecting EKKO TEchnique by blue team c# codes] =>  https://www.youtube.com/watch?v=TMQJ7jMbgQk
+video 2 chapter 10 of ebook [detecting EKKO TEchnique by blue team c# codes] link1 =>  https://www.youtube.com/watch?v=TMQJ7jMbgQk
+video 2 chapter 10 of ebook [detecting EKKO TEchnique by blue team c# codes] link2 =>  https://www.aparat.com/v/GtMIi
 
 
 ![](https://github.com/DamonMohammadbagher/eBook_Bypassing-Antiviruses-by-C-Programming-v2.0/blob/main/book.png)
