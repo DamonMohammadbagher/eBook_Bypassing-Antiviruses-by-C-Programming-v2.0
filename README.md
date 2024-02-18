@@ -23,6 +23,8 @@ or email : Damonmohammadbagher@outlook.com
 
 more than 30 C# codes/techniques in book
 
+video chapter 3 of ebook => https://www.youtube.com/watch?v=j1rc5G99vwA
+
 video chapter 4.2 of ebook => https://www.youtube.com/watch?v=61czPWFhR6o
 
 video chapter 4.2 of ebook (Part-2) => https://www.youtube.com/watch?v=w-3BizF9HYM
